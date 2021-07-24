@@ -37,6 +37,8 @@ class UI {
               <span class="badge badge-info">Following: ${user.following}</span>
               <br><br>
               <ul class="list-group">
+                <li class="list-group-item">Username: ${user.login}</li>
+                <li class="list-group-item">Name: ${user.name}</li>
                 <li class="list-group-item">Company: ${user.company}</li>
                 <li class="list-group-item">Website/Blog: <a href="https://${user.blog
             }" target="_blank">${user.blog}</a></li>
