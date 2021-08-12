@@ -1,46 +1,19 @@
-<!-- TABLE OF CONTENTS -->
+# GithubFinder
 
-<details  open="open">
-
-<summary>Table of Contents</summary>
-
-<ul>
-
-<li><a  href="#about-the-project">About The Project</a>
-
-<li><a  href="#built-with">Built With</a></li>
-
-<li><a  href="#license">License</a></li>
-
-<li><a  href="#contact">Contact</a></li>
-
-</ul>
-
-</details>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
+I made this project with Vanilla JS before, now I rebuilt it with React.js.
+</br>
 
 A simple application to show various information such as username, name, number of followers, number of people followed, etc. of profiles on github with using GithubAPI.
 
-### Built With
-
-- [HTML](https://en.wikipedia.org/wiki/HTML)
+## Built With
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
-- [Bootstrap](https://getbootstrap.com/)
-
 - [JavaScript](https://www.javascript.com/)
 
+- [React](https://reactjs.org/)
+
 <!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
 
 ## Contact
 
