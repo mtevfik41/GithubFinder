@@ -22,9 +22,9 @@ const App = () => {
               <div className="container">
                 <Alert/>
                 <Switch>
-                  <Route exact path="/" component={Home}/>
-                  <Route exact path="/about" component={About}/>
-                  <Route exact path="/user/:login" component={User}/>
+                  <Route exact path="/GithubFinder" component={Home}/>
+                  <Route exact path="/GithubFinder/about" component={About}/>
+                  <Route exact path="/GithubFinder/user/:login" component={User}/>
                   <Route component={NotFound}/>
                 </Switch>
               </div>
