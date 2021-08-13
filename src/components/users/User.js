@@ -35,7 +35,7 @@ const User = ({match}) => {
 
   return (
       <Fragment>
-        <Link to="/" className="btn">
+        <Link to="/GithubFinder" className="btn">
           Back To Search
         </Link>
         Hireable:{' '}
