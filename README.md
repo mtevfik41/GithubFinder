@@ -4,7 +4,7 @@ I made this project with Vanilla JS before, now I rebuilt it with React.js.
 </br>
 
 A simple application to show various information such as username, name, number of followers, number of people followed,
-etc. of profiles on github with using GithubAPI.
+etc. of profiles on github with using, (useState, useEffect, useReducer, ContextAPI) and GithubAPI.
 
 ## Built With
 
