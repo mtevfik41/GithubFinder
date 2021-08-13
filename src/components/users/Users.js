@@ -4,8 +4,9 @@ import Spinner from '../layout/Spinner';
 import PropTypes from 'prop-types';
 
 const Users = props => {
-  if(props.loading) {
-    return <Spinner/>
+
+  if (props.loading) {
+    return <Spinner/>;
   } else {
     return (
         <div style={userStyle}>
@@ -21,7 +22,7 @@ const Users = props => {
 Users.propTypes = {
   users: PropTypes.array.isRequired,
   loading: PropTypes.bool.isRequired,
-}
+};
 
 const userStyle = {
   display: 'grid',
